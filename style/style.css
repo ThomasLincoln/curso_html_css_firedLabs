@@ -1,0 +1,35 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #11D224;
+    border-bottom: 10px solid black;
+    padding: 10px 20px
+}
+nav{
+    text-align: right;
+}
+a{
+    display: inline-flex;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Fira Code', Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    text-decoration: transparent;
+    margin-right: 30px;
+}
+a::before{
+    content: "";
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+}
+
+#button{
+    display: inline-block;
+    background-color: #1E1B1B;
+    padding: 18px 20px;
+    box-shadow: 5px 5px 0 rgb(100, 94, 94);
+    margin-right: 0px;
+}
