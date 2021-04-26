@@ -13,17 +13,11 @@ figcaption{
     filter: drop-shadow(10px 10px 0px #000000);
     text-shadow: 4px 4px 0px #000000;
 }
-.fig-text{
+h1,h2{
     font-family: 'Press Start 2P', cursive;
 }
 
-#nome{
+h1{
     padding: 36px 34px 32px 33px;
-
-}
-
-#funcao{
-    padding: 0px 47px 44px 40px;
-    font-size: 30px;
-    line-height: 30px;
+    color: #11D224;
 }
