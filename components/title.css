@@ -1,23 +1,12 @@
-figcaption{
-    position: absolute;
-    background-color: #53595B;
-    top: 200px;
-    width: 627px;
-    height: 184px;
-    margin-left: 91px;
 
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 40px;
-    color: white;
-    filter: drop-shadow(10px 10px 0px #000000);
-    text-shadow: 4px 4px 0px #000000;
-}
 h1,h2{
     font-family: 'Press Start 2P', cursive;
 }
 
 h1{
-    padding: 36px 34px 32px 33px;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
     color: #11D224;
+    
 }
