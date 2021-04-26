@@ -1,3 +1,6 @@
+*{
+    font-family: 'Fira Code', Arial, Helvetica, sans-serif;
+}
 header{
     display: flex;
     justify-content: space-between;
@@ -8,12 +11,14 @@ header{
 nav{
     text-align: right;
 }
+
 a{
     display: inline-flex;
     align-items: center;
+    width: 146px;
+    height: 22px;
     color: white;
     font-size: 20px;
-    font-family: 'Fira Code', Arial, Helvetica, sans-serif;
     font-weight: 500;
     text-decoration: transparent;
     margin-right: 30px;
@@ -26,10 +31,36 @@ a::before{
     margin-right: 10px;
 }
 
-#button{
+.button{
     display: inline-block;
     background-color: #1E1B1B;
     padding: 18px 20px;
     box-shadow: 5px 5px 0 rgb(100, 94, 94);
     margin-right: 0px;
+    text-align: center;
+}
+
+.button:hover{
+    background-color: #516154;
+    box-shadow: 5px 5px 0 rgb(115, 133, 118);
+}
+
+.banner{
+    display: inline-block;
+    position: relative;
+    width: 100vw;
+    height: 80vh;
+}
+
+
+#btn-fig1{
+    position: absolute;
+    left: 181px;
+    top: 418px;
+}
+
+#btn-fig2{
+    position: absolute;
+    left: 463px;
+    top: 418px;
 }
