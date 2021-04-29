@@ -1,8 +1,7 @@
-
-h2{
+.subtitle{
+    font-family: 'Press Start 2P', cursive;
     font-size: 30px;
     line-height: 30px;
     font-weight: 400;
-    color: white;
-    
+    color: white;  
 }
