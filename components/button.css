@@ -5,6 +5,8 @@
     box-shadow: 5px 5px 0 rgb(100, 94, 94);
     margin-right: 0px;
     text-align: center;
+    text-decoration: none;
+    color: white;
 }
 
 .button:hover{
