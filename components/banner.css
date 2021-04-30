@@ -1,7 +1,14 @@
+.banner-section{
+    border-bottom: 10px solid #000;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
 .banner{
     display: inline-block;
     position: relative;
     width: 100vw;
     height: 80vh;
-    border-bottom: 10px solid #000;
+    margin-bottom: 0px;
+    padding-bottom: 0px;  
 }
