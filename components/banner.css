@@ -1,16 +1,7 @@
-*{
-    font-family: 'Fira Code', Arial, Helvetica, sans-serif;
-}
-
-
-
-
-
 .banner{
     display: inline-block;
     position: relative;
     width: 100vw;
     height: 80vh;
+    border-bottom: 10px solid #000;
 }
-
-
