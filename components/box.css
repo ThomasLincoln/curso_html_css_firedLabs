@@ -1,0 +1,15 @@
+.box{
+    position: absolute;
+    background-color: #53595B;
+    top: 200px;
+    padding: 42px 44px;
+    margin-left: 91px;
+    text-align: center;
+
+    filter: drop-shadow(10px 10px 0px #000000);
+    text-shadow: 4px 4px 0px #000000;
+}
+
+.box h1 {
+    margin-bottom: 28px;
+}
