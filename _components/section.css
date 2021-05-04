@@ -1,6 +1,10 @@
-.skill-section{
+.section{
     width: 100%;
     height: 740px;
     background-color: #1E1B1B;
     padding-top: 50px;
+}
+
+.main-title.-second{
+    color:white;
 }
