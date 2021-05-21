@@ -1,0 +1,26 @@
+
+.project-component{
+    background-color: #11D224;
+    width: 280px;
+    height: 280px;
+    box-shadow: 10px 10px #fff;
+    margin-left: 100px;
+}
+
+.project-icon{
+    width: 210px;
+    padding-left: 30px;
+    padding-top: 15px;
+    height: 245px;
+}
+
+.project-component.-second{
+    background-color: #4C5B84;
+}
+
+.project-icon.-second{
+    width: 100%;
+    height: 100%;
+    padding-left: 0px;
+    padding-top: 0px;
+}
